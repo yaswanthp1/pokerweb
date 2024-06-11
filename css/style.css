@@ -53,3 +53,8 @@ th {
   display: block;
   margin-bottom: 20px;
 }
+
+audio {
+  margin-top: 30dvh;
+  width: 20dvh;
+}
